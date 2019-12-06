@@ -1,0 +1,38 @@
+
+---------------------------------------------------------------
+STEPS TO RUN server and client
+---------------------------------------------------------------
+
+Server:
+1. Open terminal 1
+2. Traverse to src dir
+3. Create server and client using make (make has 2 targets)
+4. Run server using ./server <port number>
+
+
+Client:
+1. Open terminal 2
+2. Traverse to src dir
+3. Create client using make 
+4. For Experiment 1: 
+   Run client using ./client <port number> 
+   For Experiment 2: 
+   Run multiple clients (10) using the shell script provided.
+   Command: ./multiple_clients.sh
+
+---------------------------------------------------------------
+Experiments:
+
+1. Single process, multiple thread scenario:
+   The client process internally spawns thread per transaction.
+   Multiple client requests would be sent to the server.
+   Here, there's a single process having multiple client threads
+
+2. Multiple processes, multiple threads scenario:
+   Using the multiple_clients.sh file, multiple client processes are created.
+   Each process would spawn n threads if there are n transactions to be done.
+   Though the bash script has process creation in a for loop, 
+   multiple threads are created per process and some threads from every process would run simultaneously.
+
+---------------------------------------------------------------
+
