@@ -1,0 +1,6 @@
+101 Harry 16000
+102 Ron 25000
+103 Sirius 4000
+104 James 30000
+105 Hermione 11000
+101 Harryyy 6000
