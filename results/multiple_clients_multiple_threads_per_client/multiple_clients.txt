@@ -1,0 +1,110 @@
+
+Client 139627230152448 :: transaction  10 101 w 200
+
+Client 139627221759744 :: transaction  25 102 d 300
+
+Client 139627213367040 :: transaction  26 103 d 150
+
+Client 139627204974336 :: transaction  10 101 w 200
+
+Client 139627196581632 :: transaction  25 102 d 300
+
+
+Client 140006054221568 :: transaction  10 101 w 200
+
+Client 140006045828864 :: transaction  25 102 d 300
+
+Client 140006037436160 :: transaction  26 103 d 150
+
+Client 140006029043456 :: transaction  10 101 w 200
+
+Client 140006020650752 :: transaction  25 102 d 300
+
+
+Client 140123136337664 :: transaction  10 101 w 200
+
+Client 140123127944960 :: transaction  25 102 d 300
+
+Client 140123119552256 :: transaction  26 103 d 150
+
+Client 140123039594240 :: transaction  10 101 w 200
+
+Client 140123031201536 :: transaction  25 102 d 300
+
+
+Client 140550345320192 :: transaction  10 101 w 200
+
+Client 140550336927488 :: transaction  25 102 d 300
+
+Client 140550254622464 :: transaction  26 103 d 150
+
+Client 140550246229760 :: transaction  10 101 w 200
+
+Client 140550237837056 :: transaction  25 102 d 300
+
+
+Client 139944933742336 :: transaction  10 101 w 200
+
+Client 139944925349632 :: transaction  25 102 d 300
+
+Client 139944916956928 :: transaction  26 103 d 150
+
+Client 139944908564224 :: transaction  10 101 w 200
+
+Client 139944900171520 :: transaction  25 102 d 300
+
+
+Client 
+Client 139946193082112 :: transaction  10 101 w 200
+139946184689408 :: transaction  25 102 d 300
+
+Client 139946176296704 :: transaction  26 103 d 150
+
+Client 139946167904000 :: transaction  10 101 w 200
+
+Client 139946159511296 :: transaction  25 102 d 300
+
+
+Client 140645636826880
+Client  :: transaction  10 101 w 200140645628434176
+ :: transaction  25 102 d 300
+
+Client 140645620041472 :: transaction  26 103 d 150
+
+Client 140645611648768 :: transaction  10 101 w 200
+
+Client 140645603256064 :: transaction  25 102 d 300
+
+
+Client 
+Client 140531261085440 :: transaction  10 101 w 200140531252692736
+ :: transaction  25 102 d 300
+
+Client 140531244300032 :: transaction  26 103 d 150
+
+Client 140531235907328 :: transaction  10 101 w 200
+
+Client 140531227514624 :: transaction  25 102 d 300
+
+
+Client 140010096736000 :: transaction  10 101 w 200
+
+Client 140010088343296 :: transaction  25 102 d 300
+
+Client 140009961158400 :: transaction  26 103 d 150
+
+Client 140010079950592 :: transaction  10 101 w 200
+
+Client 140010071557888 :: transaction  25 102 d 300
+
+
+Client 
+Client 140220606617344 :: transaction  10 101 w 200
+140220598224640 :: transaction  25 102 d 300
+
+Client 140220589831936 :: transaction  26 103 d 150
+
+Client 140220573046528 :: transaction  25 102 d 300
+
+Client 140220581439232 :: transaction  10 101 w 200
+

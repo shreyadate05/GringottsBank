@@ -1,0 +1,407 @@
+
+----------------------------------------------
+             CLIENT ACCOUNT DATA              
+----------------------------------------------
+Account Number : 101
+Account Name   : Harryyy
+Account Balance: 6000
+
+
+Account Number : 102
+Account Name   : Ron
+Account Balance: 25000
+
+
+Account Number : 103
+Account Name   : Sirius
+Account Balance: 4000
+
+
+Account Number : 104
+Account Name   : James
+Account Balance: 30000
+
+
+Account Number : 105
+Account Name   : Hermione
+Account Balance: 11000
+
+
+----------------------------------------------
+
+Server is listening...
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 6000
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 5800
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 25000
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 25300
+-------------------------------------------
+
+
+In transact for record  ::  26 103 d 150
+Ignoring invalid record " 26 103 d 150" in Transactions.txt
+
+-------------------------------------------
+
+
+In transact for record  ::  10 101 w 200
+Ignoring invalid record " 10 101 w 200" in Transactions.txt
+
+-------------------------------------------
+
+
+In transact for record  ::  25 102 d 300
+Ignoring invalid record " 25 102 d 300" in Transactions.txt
+
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 5800
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 5600
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 25300
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 25600
+-------------------------------------------
+
+
+In transact for record  :: 26 103 d 150
+Transaction initialized :: Deposit 150 in account 103
+Current balance         :: 4000
+Transaction completed   :: Deposited 150 in account 103
+Updated balance         :: 4150
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 5600
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 5400
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 25600
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 25900
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 5400
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 5200
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 25900
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 26200
+-------------------------------------------
+
+
+In transact for record  ::  26 103 d 150
+Ignoring invalid record " 26 103 d 150" in Transactions.txt
+
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 5200
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 5000
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 26200
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 26500
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 5000
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 4800
+-------------------------------------------
+
+
+In transact for record  ::  25 102 d 300
+Ignoring invalid record " 25 102 d 300" in Transactions.txt
+
+-------------------------------------------
+
+
+In transact for record  ::  26 103 d 150
+Ignoring invalid record " 26 103 d 150" in Transactions.txt
+
+-------------------------------------------
+
+
+In transact for record  :: 26 103 d 150
+Transaction initialized :: Deposit 150 in account 103
+Current balance         :: 4150
+Transaction completed   :: Deposited 150 in account 103
+Updated balance         :: 4300
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 26500
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 26800
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 4800
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 4600
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 26800
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 27100
+-------------------------------------------
+
+
+In transact for record  ::  26 103 d 150
+Ignoring invalid record " 26 103 d 150" in Transactions.txt
+
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 4600
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 4400
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 27100
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 27400
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 4400
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 4200
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 27400
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 27700
+-------------------------------------------
+
+
+In transact for record  ::  26 103 d 150
+Ignoring invalid record " 26 103 d 150" in Transactions.txt
+
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 4200
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 4000
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 27700
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 28000
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 4000
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 3800
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 28000
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 28300
+-------------------------------------------
+
+
+In transact for record  :: 26 103 d 150
+Transaction initialized :: Deposit 150 in account 103
+Current balance         :: 4300
+Transaction completed   :: Deposited 150 in account 103
+Updated balance         :: 4450
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 3800
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 3600
+-------------------------------------------
+
+
+In transact for record  ::  25 102 d 300
+Ignoring invalid record " 25 102 d 300" in Transactions.txt
+
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 3600
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 3400
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 28300
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 28600
+-------------------------------------------
+
+
+In transact for record  :: 26 103 d 150 
+Transaction initialized :: Deposit 150 in account 103
+Current balance         :: 4450
+Transaction completed   :: Deposited 150 in account 103
+Updated balance         :: 4600
+-------------------------------------------
+
+
+In transact for record  ::  10 101 w 200
+Ignoring invalid record " 10 101 w 200" in Transactions.txt
+
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 28600
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 28900
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 3400
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 3200
+-------------------------------------------
+
+
+In transact for record  ::  25 102 d 300
+Ignoring invalid record " 25 102 d 300" in Transactions.txt
+
+-------------------------------------------
+
+
+In transact for record  ::  26 103 d 150
+Ignoring invalid record " 26 103 d 150" in Transactions.txt
+
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 3200
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 3000
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 28900
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 29200
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 3000
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 2800
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 29200
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 29500
+-------------------------------------------
+
+
+In transact for record  :: 26 103 d 150
+Transaction initialized :: Deposit 150 in account 103
+Current balance         :: 4600
+Transaction completed   :: Deposited 150 in account 103
+Updated balance         :: 4750
+-------------------------------------------
+
+
+In transact for record  :: 10 101 w 200
+Transaction initialized :: Withdraw 200 from account 101
+Current balance         :: 2800
+Transaction completed   :: Withdrew 200 from account 101
+Updated balance         :: 2600
+-------------------------------------------
+
+
+In transact for record  :: 25 102 d 300
+Transaction initialized :: Deposit 300 in account 102
+Current balance         :: 29500
+Transaction completed   :: Deposited 300 in account 102
+Updated balance         :: 29800
+----------------
